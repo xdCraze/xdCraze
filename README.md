@@ -20,6 +20,3 @@ wtf is a dword
 	<li><a href="https://www.youtube.com/@xdcraze">YouTube</a></li>
 	<li><a href="https://discord.gg/Uw48gqKxNF">Discord</a></li>
 	<li><a href="youtube.com/channel/UCt6kAPiINv7nBSrPTRurWwA?sub_confirmation=1">Subscribe</a><br>
-
-"Todays video is sponsored by NordVPN."
-                          -Meth
