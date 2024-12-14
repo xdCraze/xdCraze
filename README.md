@@ -12,7 +12,7 @@
 
 i code goofy stuff that no one will ever use
  <br>
-wtf is a dword
+im a skid
 
 ## Socials
 
