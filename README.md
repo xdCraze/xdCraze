@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hi, I'm Craze. <img src="https://user-images.githubusercontent.com/24259194/165423237-4c69cb8e-1ccb-4630-9f98-81291e10723b.gif" width="30px">
+    hi, i'm craze <img src="https://user-images.githubusercontent.com/24259194/165423237-4c69cb8e-1ccb-4630-9f98-81291e10723b.gif" width="30px">
 </h1>
 <p align="center">
 </p>
