@@ -1,13 +1,11 @@
-<h1 align="center">
-    hi, i'm craze <img src="https://user-images.githubusercontent.com/24259194/165423237-4c69cb8e-1ccb-4630-9f98-81291e10723b.gif" width="30px">
-</h1>
-<p align="center">
-</p>
+## hi
+im craze
+
+- i do cool game hacking stuff
+- learning c++
+- stuff i know: c++, python
+
+> im a paster
 
 <p align="center">
-	<img src="https://github.com/xdCraze/xdCraze/blob/main/literallyme.png" width="400px"> 
-</p>
-
-## <img align="center" src="https://user-images.githubusercontent.com/24259194/165718575-df34c1f7-2651-414c-b98d-e5f9a72cd4e8.svg" width="32" height="28"/> About Me
-
-hi
+  <a href=""><img src="https://github-readme-stats.vercel.app/api?username=xdCraze&show_icons=true&bg_color=242424&text_color=ffffff&title_color=ffffff&&icon_color=ffffff"><a>
