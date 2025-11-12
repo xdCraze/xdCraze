@@ -2,7 +2,7 @@
 im craze
 
 - i do cool game hacking stuff
-- learning c++
+- getting better at c++
 - stuff i know: c++, python
 
 > im a paster
